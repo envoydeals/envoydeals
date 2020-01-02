@@ -4,14 +4,9 @@
   "header": {
     "title": "Envoy Deals",
     "logo_img": "",
-    "has_nav": true,
+    "has_nav": false,
     "menu": {
-      "actions": [
-        {
-          "label": "Sign Up",
-          "url": "/signup"
-        }
-      ]
+      "actions": []
     }
   },
   "footer": {
