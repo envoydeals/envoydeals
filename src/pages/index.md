@@ -51,9 +51,7 @@ sections:
       - label: Ready to chat
         url: 'https://app.hubspot.com/meetings/helen40'
     section_id: call-to-action
-    subtitle: >-
-      Envoy - A messenger or representative, especially one on a diplomatic
-      mission
+    subtitle: "See my bio below \U0001F447"
     title: Hire Helen (that's me) as your envoy today.
     type: section_cta
   - bg: white
