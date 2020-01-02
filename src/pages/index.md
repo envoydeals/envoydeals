@@ -5,7 +5,7 @@ sections:
       - label: Learn more
         url: /features
     content: Grow dev & design studio profits.
-    image: /images/undraw_finance_0bdk.svg
+    image: /images/undraw_financial_data_es63.svg
     section_id: hero
     title: Hit daily revenue goals
     type: section_hero
