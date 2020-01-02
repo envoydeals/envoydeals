@@ -1,7 +1,9 @@
 ---
 title: Home
 sections:
-  - actions: []
+  - actions:
+      - label: Learn more
+        url: /features
     content: Grow dev & design studio profits.
     image: /images/undraw_finance_0bdk.svg
     section_id: hero
