@@ -54,7 +54,7 @@ sections:
     subtitle: "See my bio below \U0001F447"
     title: Hire Helen (that's me) as your envoy today.
     type: section_cta
-  - bg: white
+  - bg: gray
     content: >-
       Sales & Business Development
 
@@ -69,10 +69,10 @@ sections:
       funnel. Ready to get you the best accounts and drive revenue expansion
       today.
     image: ''
-    section_id: Bio
+    section_id: bio
     title: 'Helen Griffin, Jr.'
     type: section_content
-  - bg: gray
+  - bg: white
     content: |-
       ✅ Team up together. Share your buyer persona, content, and trial accounts.
 
