@@ -1,19 +1,23 @@
 {
-    "links": [
-        {
-            "type": "twitter",
-            "title": "Twitter",
-            "url": "https://twitter.com/"
-        },
-        {
-            "type": "instagram",
-            "title": "Instagram",
-            "url": "https://www.instagram.com/"
-        },
-        {
-            "type": "linkedin",
-            "title": "LinkedIn",
-            "url": "https://www.linkedin.com/"
-        }
-    ]
+  "links": [
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "url": "https://twitter.com/helengriffinjr"
+    },
+    {
+      "title": "Email",
+      "url": "mailto:hi@envoydeals.com"
+    },
+    {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/hgriffinjr"
+    },
+    {
+      "type": "instagram",
+      "title": "Instagram",
+      "url": "https://instagram.com/helengriffinjr"
+    }
+  ]
 }
