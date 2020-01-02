@@ -17,7 +17,7 @@
   "footer": {
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
-    "has_subscribe": true,
+    "has_subscribe": false,
     "social_title": "Social",
     "tagline": "Envoy Deals, by Helen Griffin, Jr.",
     "logo_img": "/images/envoydeals_white.png",
@@ -25,6 +25,6 @@
     "content": "&copy; Envoy Deals. All rights reserved.",
     "links": [],
     "nav_title": "Company",
-    "has_nav": true
+    "has_nav": false
   }
 }
