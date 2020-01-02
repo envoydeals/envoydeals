@@ -5,7 +5,7 @@ sections:
       - label: Learn more
         url: /features
     content: Growing profits for development & design studios.
-    image: /images/undraw_financial_data_es63.svg
+    image: /images/undraw_financial_data_es63.png
     section_id: hero
     title: Hit daily revenue goals
     type: section_hero
@@ -18,7 +18,7 @@ sections:
           develop the right clients that support your people, priorities, and
           profits. Always ready to connect folks and troubleshoot sales. Love
           nurturing accounts and partnerships that moves your agency forward.
-        image: /images/undraw_personal_goals_edgd.svg
+        image: /images/undraw_personal_goals_edgd.png
         title: Your goal is the mission.
       - actions: []
         content: >-
@@ -29,7 +29,7 @@ sections:
           who fit well with your product, service, and team. Reward your finite
           resources with tactical business development that gets you & your
           clients.
-        image: /images/undraw_timeline_9u4u.svg
+        image: /images/undraw_timeline_9u4u.png
         title: 'Run your pipeline like a boss, stress-free.'
       - actions: []
         content: >-
@@ -41,7 +41,7 @@ sections:
           relationships and building win-win moments. Make it easy getting in
           the door with your dream clients. Get new accounts without dropping
           the ball with your loyal customers.
-        image: /images/undraw_connection_b38q.svg
+        image: /images/undraw_connection_b38q.png
         title: Your lucky day.
     section_id: features
     subtitle: ''
@@ -81,7 +81,7 @@ sections:
       ✅ Create a game plan. Pick a target and create a playbook.
 
       ✅ Launch a campaign. Perform outbound campaigns and inbound follow-ups.
-    image: /images/undraw_setup_wizard_r6mr.svg
+    image: /images/undraw_setup_wizard_r6mr.png
     section_id: how
     title: How it works
     type: section_content
