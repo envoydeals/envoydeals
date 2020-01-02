@@ -43,7 +43,7 @@ sections:
         title: Your lucky day.
     section_id: features
     subtitle: ''
-    title: Features
+    title: ''
     type: section_features
   - actions:
       - label: Ready to chat
