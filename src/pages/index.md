@@ -7,7 +7,7 @@ sections:
     section_id: hero
     title: Hit daily revenue goals
     type: section_hero
-  - bg: gray
+  - bg: white
     featureslist:
       - actions: []
         content: >-
@@ -54,7 +54,7 @@ sections:
       mission
     title: Hire Helen (that's me) as your envoy today.
     type: section_cta
-  - bg: gray
+  - bg: white
     content: >-
       Sales & Business Development
 
@@ -68,6 +68,7 @@ sections:
       Focus on closing the gap between the middle and bottom of your sales
       funnel. Ready to get you the best accounts and drive revenue expansion
       today.
+    image: /images/review2.jpg
     section_id: Bio
     title: 'Helen Griffin, Jr.'
     type: section_content
@@ -78,6 +79,7 @@ sections:
       ✅ Create a game plan. Pick a target and create a playbook.
 
       ✅ Launch a campaign. Perform outbound campaigns and inbound follow-ups.
+    image: /images/undraw_timeline_9u4u.svg
     section_id: how
     title: How it works
     type: section_content
