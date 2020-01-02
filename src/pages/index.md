@@ -81,7 +81,7 @@ sections:
       ✅ Create a game plan. Pick a target and create a playbook.
 
       ✅ Launch a campaign. Perform outbound campaigns and inbound follow-ups.
-    image: ''
+    image: /images/undraw_setup_wizard_r6mr.svg
     section_id: how
     title: How it works
     type: section_content
