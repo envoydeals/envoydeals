@@ -6,7 +6,12 @@
     "logo_img": "",
     "has_nav": false,
     "menu": {
-      "actions": []
+      "actions": [
+        {
+          "label": "Contact",
+          "url": "https://app.hubspot.com/meetings/helen40"
+        }
+      ]
     }
   },
   "footer": {
