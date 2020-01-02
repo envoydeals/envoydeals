@@ -46,7 +46,6 @@
 .block-item {
   .cell {
     text-align: center;
-    max-width: 75%;
   }
 
   .underline:after {
@@ -96,6 +95,11 @@
       -ms-flex: 7;
       flex: 7;
       padding-right: 68px;
+      
+      .img {
+        max-width: 75%;
+      }
+        
     }
 
     .block-content {
