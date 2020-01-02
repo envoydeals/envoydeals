@@ -68,7 +68,7 @@ sections:
       Focus on closing the gap between the middle and bottom of your sales
       funnel. Ready to get you the best accounts and drive revenue expansion
       today.
-    image: /images/review2.jpg
+    image: ''
     section_id: Bio
     title: 'Helen Griffin, Jr.'
     type: section_content
@@ -79,7 +79,7 @@ sections:
       ✅ Create a game plan. Pick a target and create a playbook.
 
       ✅ Launch a campaign. Perform outbound campaigns and inbound follow-ups.
-    image: /images/undraw_timeline_9u4u.svg
+    image: ''
     section_id: how
     title: How it works
     type: section_content
