@@ -1,89 +1,100 @@
 ---
 title: Home
 sections:
-  - type: section_hero
+  - actions: []
+    content: Grow dev & design studio profits.
+    image: /images/undraw_finance_0bdk.svg
     section_id: hero
-    title: This Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
-    actions:
-      - label: Learn More
-        url: /features
-  - type: section_features
-    section_id: features
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    bg: gray
+    title: Hit daily revenue goals
+    type: section_hero
+  - bg: gray
     featureslist:
-      - title: The Best Feature of Your Services
+      - actions: []
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Awesome Feature of Your Services
+          An envoy is a messenger or representative, especially one on a
+          diplomatic mission. Send Helen (that's me) as your envoy. She'll
+          develop the right clients that support your people, priorities, and
+          profits. Always ready to connect folks and troubleshoot sales. Love
+          nurturing accounts and partnerships that moves your agency forward.
+        image: /images/undraw_personal_goals_edgd.svg
+        title: Your goal is the mission.
+      - actions: []
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Cool Feature of Your Services
+          Busy leaders and neglected pipelines generate lost deals. Yes, the
+          market is crowded and noisy, but don't let that phase you. Gain the
+          mental space to qualify and manage business opportunities faster. Hear
+          qualified prospects over loud tire kickers. Get meetings with clients
+          who fit well with your product, service, and team. Reward your finite
+          resources with tactical business development that gets you & your
+          clients.
+        image: /images/undraw_timeline_9u4u.svg
+        title: 'Run your pipeline like a boss, stress-free.'
+      - actions: []
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        actions:
-          - label: Learn More
-            url: /features
-  - type: section_reviews
-    section_id: reviews
-    title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    bg: white
-    reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - type: section_cta
+          "Luck Is What Happens When Preparation Meets Opportunity" - Seneca
+
+
+          A great story to share is serendipity. It only becomes real when we
+          shape genuine connections. Our luck is born from nurturing
+          relationships and building win-win moments. Make it easy getting in
+          the door with your dream clients. Get new accounts without dropping
+          the ball with your loyal customers.
+        image: /images/undraw_connection_b38q.svg
+        title: Your lucky day.
+    section_id: features
+    subtitle: ''
+    title: Features
+    type: section_features
+  - actions:
+      - label: Ready to chat
+        url: 'https://app.hubspot.com/meetings/helen40'
     section_id: call-to-action
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /signup
-  - type: section_posts
-    section_id: recent-posts
-    title: Latest Posts
-    bg: gray
+    subtitle: >-
+      Envoy - A messenger or representative, especially one on a diplomatic
+      mission
+    title: Hire Helen (that's me) as your envoy today.
+    type: section_cta
+  - bg: gray
+    content: >-
+      Sales & Business Development
+
+
+      Friendly business development consultant with SMB, SME, and startup sales
+      experience. Knowledgeable from past front-end development career and
+      bootstrapped startup. Social entrepreneurial trait drives her to grow
+      communities through profitable businesses.
+
+
+      Focus on closing the gap between the middle and bottom of your sales
+      funnel. Ready to get you the best accounts and drive revenue expansion
+      today.
+    section_id: Bio
+    title: 'Helen Griffin, Jr.'
+    type: section_content
+  - bg: gray
+    content: |-
+      ✅ Team up together. Share your buyer persona, content, and trial accounts.
+
+      ✅ Create a game plan. Pick a target and create a playbook.
+
+      ✅ Launch a campaign. Perform outbound campaigns and inbound follow-ups.
+    section_id: how
+    title: How it works
+    type: section_content
+  - actions:
+      - label: 'Yes, let''s talk!'
+        url: 'https://app.hubspot.com/meetings/helen40'
+    section_id: contact
+    subtitle: >-
+      We'll work one-on-one, or I can work alone. Together we'll build your
+      pipeline and optimize your funnels to achieve your goals. Working together
+      is easy.
+    title: Get me on your calendar.
+    type: section_cta
 menus:
   main:
     title: Home
     weight: 1
 template: landing
 ---
+
