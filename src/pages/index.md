@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions:
       - label: Learn more
-        url: /features
+        url: '/#features'
     content: Growing profits for development & design studios.
     image: /images/undraw_financial_data_es63.svg
     section_id: hero
